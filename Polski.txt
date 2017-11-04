@@ -773,17 +773,17 @@ Albo poruszaj swój statek wzdłuż okręgu siatki, jeśli chcesz obejść plane
 #673# m / s
 #674# Prędkość aktywnego statku
 #675# Metrów na sekundę
-#676# 90% Black
-#677# 100% Black
-#678# Blue
+#676# 90% Czarny
+#677# 100% Czarny
+#678# Niebieski
 #679# Collision damage
-#680# Module should be in range of shipyard (yellow circle)
-#681# Currently there is a technical problem with visibility of created servers in the server list
+#680# Moduł powinien znajdować się w zasięgu stoczni (żółte kółko)
+#681# Aktualnie mamy problem z widocznością serwerów na liście
 
-If you created a server and you want to check its visibility, follow this guide
-#682# If your server is not visible in the list, other users still should be able to join your server using direct IP connection
-#683# Open guide
-#684# Recommended mode
+Jeśli utworzyłeś server i chcesz sprawdzić jego widoczność, postempuj według przewodnika
+#682# Jeśli twój serwer nie jest widoczny na liście, inni gracze dalej mogą dołączyć wpisując odpowiednie IP servera
+#683# Otwórz przewodnik
+#684# Zalecany tryb
 #685# Experimental mode which may contain significant technical and conceptual flaws
 
 We recommend to start with aerodynamic mode because it is more user friendly, have more stable physics and overall provides better gameplay experience
